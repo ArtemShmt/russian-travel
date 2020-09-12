@@ -2,3 +2,4 @@
 Исполнитель: Шемет А. 
 Используемые технологии: html5,css3
 Методология web-разработки: БЭМ
+Расположение: https://artemshmt.github.io/russian-travel/index.html
